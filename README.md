@@ -31,8 +31,10 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result of your local server.
 
 ## 📦 Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This application is deployed on **Render**. You can view the live platform here: [ai-misinformation-platform-impl.onrender.com](https://ai-misinformation-platform-impl.onrender.com/)
+
+If you want to deploy your own instance on Render, you can connect your GitHub repository to a new Web Service on Render and it will automatically build and deploy your Next.js application.
