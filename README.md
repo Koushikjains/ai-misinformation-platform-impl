@@ -1,6 +1,8 @@
 # AI Misinformation Platform
 
 ## 🌐 Overview
+**Live Demo:** [https://ai-misinformation-platform-impl.onrender.com/](https://ai-misinformation-platform-impl.onrender.com/)
+
 The **AI Misinformation Platform** is a sophisticated web application designed to detect and combat fake news in real-time. By leveraging advanced Machine Learning models and AI integration, this platform analyzes news content to determine its authenticity, providing users with instant verification and detailed insights.
 
 ## ✨ Features
